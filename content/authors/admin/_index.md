@@ -7,7 +7,7 @@ education:
     institution: Xiamen University
     year: 2022
   - course: BS in applied statistics
-    institution: Hianan Medical University
+    institution: Hainan Medical University
     year: 2019
 email: ""
 highlight_name: true
