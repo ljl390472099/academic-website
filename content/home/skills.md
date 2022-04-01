@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 100%
-  icon: chart-line
+  icon: database
   icon_pack: fas
   name: SQL
 
