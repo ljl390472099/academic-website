@@ -36,14 +36,19 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: statistician for clinical research
+    company: Peking university shenzhen hospital
+    company_url: 'www.pkuszh.com'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shenzhen
+    date_start: '2022-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Study design
+        * Sample size calculation 
+        * Statistical methods Consulting
 
 design:
   columns: '2'
