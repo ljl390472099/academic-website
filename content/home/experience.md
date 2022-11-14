@@ -37,7 +37,7 @@ experience:
         * Deploying
         
   - title: statistician for clinical research
-    company: Peking university shenzhen hospital
+    company: Peking University Shenzhen Hospital
     company_url: 'www.pkuszh.com'
     company_logo: org-x
     location: Shenzhen
