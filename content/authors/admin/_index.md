@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests are data science and the application of machine learning in health research
   matter.
 education:
   courses:
