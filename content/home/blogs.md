@@ -1,55 +1,48 @@
 ---
-# An instance of the Experience widget.
+# An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: portfolio
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 65
 
-title: Experience
-subtitle:
+title: Blogs
+subtitle: ''
 
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+content:
+  # Page type to display. E.g. project.
+  page_type: project
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: MD Student
-    company: XMU
-    company_url: ''
-    company_logo: org-gc
-    location: Xiamen
-    date_start: '2019-09-10'
-    date_end: '2022-06-30'
-    description: |2-
-        Responsibilities include:
-        
-        * Research on health for older adults
-        * Modelling 
-        * Deploying
-        
-  - title: statistician for clinical research
-    company: Peking University Shenzhen Hospital
-    company_url: 'www.pkuszh.com'
-    company_logo: org-x
-    location: Shenzhen
-    date_start: '2022-07-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Study design
-        * Sample size calculation 
-        * Statistical methods Consulting
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Deep Learning
+    tag: Deep Learning
+  - name: Other
+    tag: Demo
 
 design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 3
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---
