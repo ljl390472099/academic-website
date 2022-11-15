@@ -36,8 +36,6 @@ url_pdf: https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-021-02087-
 # url_source: ""
 # url_video: ""
 ---
-
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
