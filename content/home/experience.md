@@ -25,7 +25,7 @@ experience:
   - title: MD Student
     company: XMU
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-xd
     location: Xiamen
     date_start: '2019-09-10'
     date_end: '2022-06-30'
@@ -39,7 +39,7 @@ experience:
   - title: statistician for clinical research
     company: Peking University Shenzhen Hospital
     company_url: 'www.pkuszh.com'
-    company_logo: org-x
+    company_logo: org-bd
     location: Shenzhen
     date_start: '2022-07-01'
     date_end: ''
