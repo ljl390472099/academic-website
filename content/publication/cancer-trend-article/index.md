@@ -1,32 +1,42 @@
 ---
-abstract: Background A healthy lifestyle may prevent disability for older adults. But research to date is limited to a single lifestyle behavior and ignore sex difference in the lifestyle-disability association. This study aimed at identifying sex-specific latent classes of lifestyle and their relationship with disability among older Chinese adults. Methods Data were obtained from adults aged 65 years or above in the 2018 Chinese Longitudinal Healthy Longevity Survey, a nationally representative sample of older adults in China.
+abstract: 'Background
+Cancer creates considerable challenges for China with its aging population. This analysis aimed to estimate the burden of cancer and transition in cancer spectrum among older adults in China by 2030.
+Methods
+Using data from the National Central Cancer Registry of China, we estimated annual percent change (APC) in cancer incidence and mortality rates among adults aged 60 years and above between 2006 and 2015 using joinpoint regression. We further estimated the number of new cancer cases and deaths from 2020 to 2030 based on the APC and population projections.
+Results
+Although cancer incidence and mortality rates have been decreasing among older adults in China between 2006 and 2015, there were marked increases in the incidence and mortality rates of cervical (incidence: APC = 9.2%, mortality: APC = 7.6% all p < 0.05) and thyroid cancers (incidence: APC = 9.3%, p < 0.05) in older women. Between 2015 and 2030, the number of new cancer cases is projected to increase by 46% from 2.2 million to 3.2 million; cancer deaths will increase by 31% from 1.6 million to 2.1 million among older Chinese adults. In 2015, the 3 most common cancers were lung, colorectal and breast cancer in women, and lung, colorectal and stomach cancer in men. By 2030, cervical cancer is projected to be the most common cancer in women, followed by lung and thyroid cancer; prostate cancer will surpass stomach cancer to become the third most common cancer in men. In both sexes, lung, liver and stomach cancer were the top 3 leading causes of cancer deaths in 2015. In women, cervical cancer will surpass lung cancer as the leading cause of cancer deaths by 2030.
+Conclusion
+The growing burden of cervical, thyroid and prostate cancer among older Chinese adults represents a major shift in cancer spectrum in this population.
+close'
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
 - Shi Zaixing
 - Lin Jianlin
-- Xiao Jian
+- Wu Yafei
+- Fu Sijia
+- Wan Yuanyuan
 - Fang Ya
 #date: "2015-09-01T00:00:00Z"
-doi: "10.1186/S12877-021-02087-Z"
+doi: "10.1016/J.CANEP.2021.102068"
 featured: false
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*BMC Geriatrics, 21*(1)'
+publication: '*Cancer Epidemiology, 76*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-03-18T00:00:00Z"
+publishDate: "2021-12-02T00:00:00Z"
 slides: 
-summary: Sex differences in the association between latent class of lifestyle and disability among older adults in China.
+summary: 'Burden of cancer and changing cancer spectrum among older adults in China: Trends and projections to 2030.'
 tags:
 - Source Themes
-title: Sex differences in the association between latent class of lifestyle and disability among older adults in China
-url_pdf: https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-021-02087-z#citeas
+title: 'Burden of cancer and changing cancer spectrum among older adults in China: Trends and projections to 2030'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1877782121001855?via%3Dihub
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: ""
 
