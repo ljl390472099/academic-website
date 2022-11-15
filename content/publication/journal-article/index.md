@@ -1,44 +1,40 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Background A healthy lifestyle may prevent disability for older adults. But research to date is limited to a single lifestyle behavior and ignore sex difference in the lifestyle-disability association. This study aimed at identifying sex-specific latent classes of lifestyle and their relationship with disability among older Chinese adults. Methods Data were obtained from adults aged 65 years or above in the 2018 Chinese Longitudinal Healthy Longevity Survey, a nationally representative sample of older adults in China.
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Shi Zaixing
+- Lin Jianlin
+- Xiao Jian
+- Fang Ya
+#date: "2015-09-01T00:00:00Z"
+doi: "10.1186/S12877-021-02087-Z"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*BMC Geriatrics, 21*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-03-18T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Sex differences in the association between latent class of lifestyle and disability among older adults in China.
 tags:
 - Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: Sex differences in the association between latent class of lifestyle and disability among older adults in China
+url_pdf: https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-021-02087-z#citeas
+# url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_dataset: ""
+
+# url_poster: ""
+# url_project: ""
+# url_slides: ""
+# url_source: ""
+# url_video: ""
 ---
 
 {{% callout note %}}
