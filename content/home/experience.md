@@ -34,7 +34,7 @@ experience:
         
         * Research on health for older adults
         * Modelling 
-        * Deploying
+        * Medical data mining
         
   - title: statistician for clinical research
     company: Peking University Shenzhen Hospital
