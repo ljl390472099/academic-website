@@ -32,14 +32,14 @@ address:
 coordinates:
   latitude: '39.9967'
   longitude: '116.3150'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Enter the North Clinic Building and take the elevator to the office of the Clinical Hospital Center for Oral Diseases on the 7th floor
 office_hours:
   - 'Monday - Friday 08:00 to 17:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
   - icon: weixin
     icon_pack: fab
-    name: Scan the code to follow （DATA私学笔记）
+    name: Search WeChat public account to follow (DATA私学笔记)
     link: 'https://keybase.io/'
   - icon: comments
     icon_pack: fas
