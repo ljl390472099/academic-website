@@ -18,6 +18,8 @@ org_name: ''
 description: ''
 twitter: ''
 
+
+
 # Contact (edit or remove options as required)
 
 email: jianlin_lin@126.com
@@ -29,6 +31,12 @@ address:
   postcode: '518036'
   country: China
   country_code: CHN
+#set map provider
+features:
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
 coordinates:
   latitude: '39.9967'
   longitude: '116.3150'
