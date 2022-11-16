@@ -23,6 +23,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ljl390472099
+- icon: blog
+  icon_pack: fas
+  link: https://blog.csdn.net/linjianlin1996?spm=1010.2135.3001.5343
+- icon: zhihu
+  icon_pack: fab
+  link: https://www.zhihu.com/people/mu-mu-123-87
+- icon: weixin
+  icon_pack: fab
+  link: /#contact
 superuser: true
 title: Jianlin Lin (林建林)
 ---

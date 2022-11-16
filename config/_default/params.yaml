@@ -21,39 +21,35 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: jianlin_lin@126.com
-phone: 1333 8466 353 
+phone: 1333 xxxx 353 
 address:
-  street: 450 Serra Mall
-  city: China
-  region: Shenzhen
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Lianhua Road 1120
+  city: Shenzhen
+  region: Futian
+  postcode: '518036'
+  country: China
+  country_code: CHN
 coordinates:
   latitude: '39.9967'
   longitude: '116.3150'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 08:00 to 17:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Monday - Friday 08:00 to 17:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: weixin
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
+    name: Scan the code to follow （DATA私学笔记）
     link: 'https://keybase.io/'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://blog.csdn.net/linjianlin1996?spm=1010.2135.3001.5343'
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: 'https://join.skype.com/invite/xEFg69iXUnvS'
+ 
 
 # Site header
 
