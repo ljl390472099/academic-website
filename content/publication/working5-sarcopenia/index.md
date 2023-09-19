@@ -1,15 +1,29 @@
 ---
-abstract: "Background
+abstract: "**Background**
+
+
 Postoperative complications after free flap reconstruction for oral cancer can increase cost and prolong hospitalization. This study explored risk factors for complications, focusing on sarcopenia.
 
-Methods
+
+**Methods**
+
+
 The study explored the associations between computed tomography-defined sarcopenia and the occurrence of postoperative complications, adjusted for age, gender, smoking, alcohol, ASA scoring, clinical stage of tumor, tumor site, type of free flap used, presence of tracheotomy, and blood test parameters.
 
-Results
+
+**Results**
+
+
 Of 253 patients, 17.39% (44/253) of oral cancer patients had comorbid sarcopenia. Univariate analysis showed an overall postoperative complication rate of 65.90% in the sarcopenia group and 51.67% in the non-sarcopenia group. Multivariate modeling showed sarcopenia and smoking were major risk factors for total and respiratory complications, increasing the risks by over two-fold. No factors significantly impacted surgery-specific complications.
 
-Conclusions
+
+**Conclusions**
+
+
 This study identified sarcopenia as a risk factor for postoperative complications in oral cancer patients undergoing flap reconstruction."
+author_notes:
+- Equal contribution
+- Equal contribution
 authors:
 - Bo Lin 
 - Jianlin Lin
@@ -58,5 +72,6 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
+{{< icon name="download" pack="fas" >}} Download this {{< staticref "uploads/paper/4Head_Neck_ Lin.pdf" "newtab" >}}paper{{< /staticref >}}.
 
 

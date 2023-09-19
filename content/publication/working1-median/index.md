@@ -1,5 +1,26 @@
 ---
-abstract: 'BACKGROUND: Frailty is associated with adverse health outcomes, and vitamin D (VD) deficiency may be a risk factor. We aimed to identify frailty trajectories and examine the mediating effect of physical activity (PA) on the association between VD deficiency and frailty trajectories. METHODS: We included 2997 participants aged 60 to 85 years from ELSA. VD was measured using serum 25-hydroxyvitamin D [25(OH)D] (sufficient: >50; insufficient: 30–50; deficient: <30 nmol/L). Frailty was assessed by a 60-item frailty index, and PA was measured on the basis of total energy expenditure. Frailty trajectories were identified using group-based trajectory modeling, and the mediation effect of PA was tested using causal mediation analysis. RESULTS: Three distinct frailty trajectories emerged: “Non-frail” (66.48%), “Pre-frail to frail” (25.67%) and “Frail to severely frail” (7.85%). VD deficiency was associated with the “Pre-frail to frail” (OR = 1.51, 95% CI: 1.14, 1.98) and “Frail to severely frail” trajectories (OR = 2.29, 95% CI: 1.45, 3.62). PA only mediated 48.4% (95% CI: 17.1%–270.8%) of the association between VD deficiency and the “Pre-frail to frail” trajectory. CONCLUSIONS: Vitamin D deficiency is associated with the onset and worsening of frailty in older adults, and reduced PA may mediate its impact on the transition from pre-frailty to frailty.'
+abstract: '**BACKGROUND:**
+
+
+Frailty is associated with adverse health outcomes, and vitamin D (VD) deficiency may be a risk factor. We aimed to identify frailty trajectories and examine the mediating effect of physical activity (PA) on the association between VD deficiency and frailty trajectories. 
+
+
+**METHODS:**
+
+
+We included 2997 participants aged 60 to 85 years from ELSA. VD was measured using serum 25-hydroxyvitamin D [25(OH)D] (sufficient: >50; insufficient: 30–50; deficient: <30 nmol/L). Frailty was assessed by a 60-item frailty index, and PA was measured on the basis of total energy expenditure. Frailty trajectories were identified using group-based trajectory modeling, and the mediation effect of PA was tested using causal mediation analysis. 
+
+
+**RESULTS:**
+
+
+Three distinct frailty trajectories emerged: “Non-frail” (66.48%), “Pre-frail to frail” (25.67%) and “Frail to severely frail” (7.85%). VD deficiency was associated with the “Pre-frail to frail” (OR = 1.51, 95% CI: 1.14, 1.98) and “Frail to severely frail” trajectories (OR = 2.29, 95% CI: 1.45, 3.62). PA only mediated 48.4% (95% CI: 17.1%–270.8%) of the association between VD deficiency and the “Pre-frail to frail” trajectory. 
+
+
+**CONCLUSIONS:**
+
+
+Vitamin D deficiency is associated with the onset and worsening of frailty in older adults, and reduced PA may mediate its impact on the transition from pre-frailty to frailty.'
 
 authors:
 - Zaixing Shi
@@ -25,7 +46,7 @@ summary: 'Mediating Effect of Physical Activity in the Association between Low 2
 tags:
 - Source Themes
 title: 'Mediating Effect of Physical Activity in the Association between Low 25-Hydroxyvitamin D and Frailty Trajectories: The English Longitudinal Study of Ageing'
-url_pdf: https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-021-02087-z#citeas
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9183055/
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: ""
 

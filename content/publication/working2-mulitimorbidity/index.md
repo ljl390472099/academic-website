@@ -1,11 +1,25 @@
 ---
-abstract: 'Background
+abstract: '**Background**
+
+
 Although multimorbidity is a risk factor for disability, the relationship between the accumulative patterns of multimorbidity and disability remains poorly understood. The objective of this study was to identify the latent groups of multimorbidity trajectories among mid to older age adults and to examine their associations with incident disability.
-Methods
+
+
+**Methods**
+
+
 We included 5,548 participants aged ≥ 45 years who participated in the China Health and Retirement Longitudinal Study from 2011 to 2018 and had no multimorbidity (≥ 2 chronic conditions) at baseline. The group-based multi-trajectory modeling was used to identify distinct trajectory groups of multimorbidity based on the latent dimensions underlying 13 chronic conditions. The association between multimorbidity trajectories and incident disability was analyzed using the generalized estimating equation model adjusting for potential confounders.
-Results
+
+
+**Results**
+
+
 Of the 5,548 participants included in the current analysis, 2,407 (43.39%) developed multimorbidity during the follow-up. Among participants with new-onset multimorbidity, four trajectory groups were identified according to the combination of newly diagnosed diseases: “Cardiometabolic” (N = 821, 34.11%), “Digestive-arthritic” (N = 753, 31.28%), “Cardiometabolic/Brain” (N = 618, 25.68%), and “Respiratory” (N = 215, 8.93%). Compared to participants who did not develop multimorbidity, the risk of incident disability was most significantly increased in the “Cardiometabolic/Brain” trajectory group (OR = 2.05, 95% CI: 1.55–2.70), followed by the “Cardiometabolic” (OR = 1.96, 95% CI: 1.52 –2.53) and “Digestive-arthritic” (OR = 1.70, 95% CI: 1.31–2.20) trajectory groups.
-Conclusions
+
+
+**Conclusions**
+
+
 The growing burden of multimorbidity, especially the comorbid of cardiometabolic and brain diseases, may be associated with a significantly increased risk of disability for mid to older age adults. These findings improve our understanding of multimorbidity patterns that affect the independence of living and inform the development of strategies for the primary prevention of disability.'
 
 authors:

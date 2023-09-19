@@ -1,14 +1,25 @@
 ---
-abstract: "Background
+abstract: "**Background**
+
+
 This study examined the postoperative follow-up attendance of oral squamous cell carcinoma (OSCC) patients, evaluated some of the factors associated with it, and assessed its relationship with early detection of postoperative disease progression.
 
-Methods
+
+**Methods**
+
+
 An exploratory retrospective cohort study of 430 OSCC patients was conducted. We examined associations of follow-up attendance within the first year after surgery with selected demographic and clinical factors, and with early detection of disease progression.
 
-Results
+
+**Results**
+
+
 The mean number of follow-up visits within the first year after surgery was 3.9 out of the 12 recommended at our center; few patients were fully adherent. Age ≥70 years, unmarried status, high education level, and negative history of surgery for premalignant or malignant lesions from oral cavity or other sites were significantly associated with lower follow-up attendance. Greater follow-up attendance was significantly associated with early detection of disease progression during the first year after surgery (p = 0.025).
 
-Conclusions
+
+**Conclusions**
+
+
 Adherence to follow-up visits was poor. Several sociodemographic and clinical factors were related to follow-up attendance, greater follow-up attendance was significantly associated with early detection of disease progression, and these should be further explored in future research."
 authors:
 - Wang, Shun-Ji
@@ -55,5 +66,5 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
-
+{{< icon name="download" pack="fas" >}} Download this {{< staticref "uploads/paper/5Head_Neck_Wang.pdf" "newtab" >}}paper{{< /staticref >}}.
 

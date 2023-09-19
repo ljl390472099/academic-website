@@ -22,8 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: BS Student
+    company: Hainan Medical University
+    company_url: ''
+    company_logo: org-hy
+    location: Hainan
+    date_start: '2015-09-01'
+    date_end: '2019-06-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Probability and Mathematical Statistics
+        * Mathematical analysis 
+        * Medical data mining
+        
   - title: MD Student
-    company: XMU
+    company: Xiamen University
     company_url: ''
     company_logo: org-xd
     location: Xiamen
