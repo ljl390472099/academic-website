@@ -3,7 +3,7 @@ bio: My research interests are data science and the application of machine learn
   matter.
 education:
   courses:
-  - course: MD in Epidemiology&Health Statistics
+  - course: MM in Epidemiology&Health Statistics
     institution: Xiamen University
     year: 2022
   - course: BS in applied statistics
