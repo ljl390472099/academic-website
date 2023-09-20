@@ -31,7 +31,7 @@ social:
   link: https://blog.csdn.net/linjianlin1996?spm=1010.2135.3001.5343
 - icon: zhihu
   icon_pack: fab
-  link: https://www.zhihu.com/people/mu-mu-123-87
+  link: www.zhihu.com/people/jianlinlin
 - icon: weixin
   icon_pack: fab
   link: /#contact
